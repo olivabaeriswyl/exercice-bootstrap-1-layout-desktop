@@ -2,7 +2,18 @@
 
 Intégrez les 2 maquettes en utilisant la grille Bootstrap.
 
-Les éléments nécessaires à l'intégration se trouvent dans le dossier **\_consigne**.
+### Trouver les maquettes
+
+Le fichier se trouve:
+
+- dans l'équipe de votre classe
+- dans le projet _FD-03-Bootstrap_
+
+Il se nomme _01 - Bootstrap - Layout desktop_.
+
+Vous pouvez également le trouver [ici](https://www.figma.com/file/GwaHaRS7UeCKrU7g0ytx12/01---Bootstrap---Layout-desktop?type=design&mode=design&t=YfCKLUgi2SujFDQV-1).
+
+### Rendre les colonnes visibles
 
 Afin de rendre les colonnes visibles, vous pouvez utiliser la CSS suivante:
 
@@ -20,5 +31,5 @@ Afin de rendre les colonnes visibles, vous pouvez utiliser la CSS suivante:
 }
 ```
 
-![](_consigne/maquette1@1x.png)
-![](_consigne/maquette2@1x.png)
+![](_screenshots/maquette1@1x.png)
+![](_screenshots/maquette2@1x.png)
